@@ -1,1 +1,15 @@
-/* Copy and paste your CSS from CodePen into here */
+.header-img{width:25%}
+
+.center{display: block; margin-left:auto; margin-right:auto;}
+
+h1{color:red; text-align: center; font-family:garamond,serif; }
+
+body{background-color:#D0958C}
+
+li{text-align: justify; font-family:garamond, serif; font-size:20}
+
+.med-img{border-color:red; border-width:10px; border-style:solid; max-width:100%;}
+
+.caption-text{font-size:15; font-style:italic; text-align:center}
+
+.footer-text{font-style:italic; font-size:35; color:red; text-align:center}/* Copy and paste your CSS from CodePen into here */
